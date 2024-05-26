@@ -1,0 +1,5 @@
+#!/Users/vikash/Desktop/ML-Projects/IPL-Win-Probability-Predictor-/venu/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
